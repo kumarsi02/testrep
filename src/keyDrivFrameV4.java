@@ -37,7 +37,7 @@ public class keyDrivFrameV4 {
 		TestData = readExcel(xlPath,"TestData");
 		Eid = readExcel(xlPath,"ElementMap");
 	//display
-	//System.out.println(TestCases);
+	System.out.println(TestCases);
 	//System.out.println(TestSteps);
 	TestCasesLength = TestCases.length;
 	TestStepsLength = TestSteps.length;	
