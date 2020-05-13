@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Selenium files/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium files/junit-4.13-beta-3.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/sid1/Downloads/poi/poi-4.1.0/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium files/more jars/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
